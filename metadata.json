@@ -1,0 +1,6 @@
+{
+  "name": "Kudehwa",
+  "description": "Kudehwa Phone Store And Accessories - Your Phone, Our Priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

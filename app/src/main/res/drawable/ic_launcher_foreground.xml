@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Mchoro wa Simu (Phone Outline) -->
+    <path
+        android:pathData="M156,70 h200 c16.5,0 30,13.5 30,30 v312 c0,16.5 -13.5,30 -30,30 h-200 c-16.5,0 -30,-13.5 -30,-30 v-312 c0,-16.5 13.5,-30 30,-30 z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="18"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Spika/Kamera ya juu kwenye simu -->
+    <path
+        android:pathData="M226,100 h60"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round" />
+    
+    <path
+        android:pathData="M196,100 a5,5 0 1,1 10,0 a5,5 0 1,1 -10,0"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Herufi 'K' -->
+    <path
+        android:pathData="M170,160 h45 v190 h-45 z"
+        android:fillColor="#FFFFFF" />
+    
+    <path
+        android:pathData="M215,270 L330,160 h60 L250,280 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <path
+        android:pathData="M230,260 L360,350 h-70 L195,270 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Mstari unaopinda (Swoosh) wenye rangi ya Cyan -->
+    <path
+        android:pathData="M60,280 C180,400 350,250 480,120 C330,200 180,290 60,280 Z"
+        android:fillColor="#00B4EE" />
+</vector>
